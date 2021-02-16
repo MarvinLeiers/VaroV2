@@ -1,0 +1,6 @@
+name: VaroV2
+version: ${project.version}
+main: de.marvinleiers.varov2.VaroV2
+api-version: 1.16
+authors: [ Marvin_Leiers ]
+website: https://www.marvinleiers.de
